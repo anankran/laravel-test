@@ -9,14 +9,14 @@ use Illuminate\Support\Facades\Storage;
 class Affiliates extends Model
 {
     /**
-     * Gambling office latitude.
+     * Default latitude.
      *
      * @var int
      */
     protected $officeLatitude = 53.3340285;
 
     /**
-     * Gambling office longitude.
+     * Default longitude.
      *
      * @var int
      */

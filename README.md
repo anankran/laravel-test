@@ -11,3 +11,5 @@ Endpoint:
 ```
 GET /affiliates
 ```
+
+If you want to test other parameters, change the variables `Affiliates.defaultLatitude` and `Affiliates.defaultLongitude` on `app/Models/`. The values used to compare are in `storage/app/affiliates.txt`.
